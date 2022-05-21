@@ -1,5 +1,4 @@
 import pygame
-import os
 import sys
 import random
 import math
@@ -119,6 +118,7 @@ while running:
 	for event in pygame.event.get():
 		if event.type == pygame.QUIT:
 			running = False
+
 		if event.type == pygame.KEYDOWN:
 			if event.key == pygame.K_ESCAPE:
 				running = False
@@ -203,7 +203,8 @@ while running:
 	if start_game == True:
 		show_score(textX, textY)
 	clock.tick(fps)
-	pygame.display.update()			
+	pygame.display.update()	
+	
 	
 pygame.quit()
 sys.exit()			
