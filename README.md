@@ -1,4 +1,4 @@
-# Flappy bird project
+# spaceship project
 
 ![icon](C:\Users\Administrator\Desktop\projectone\spaceship\player.png)
 ## Required
