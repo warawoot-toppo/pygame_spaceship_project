@@ -1,6 +1,6 @@
 # spaceship project
 
-![icon](C:\Users\Administrator\Desktop\projectone\spaceship\player.png)
+![icon](./player.png)
 ## Required
 - Python
 - Pygame
